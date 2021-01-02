@@ -62,6 +62,22 @@
     float: right;
     display: none;
 }
+
+.navigation{
+    width: 100px;
+    margin-right: 200px;  
+    position: relative;  
+    float: left;
+}
+
+.navigation a{
+    font-size: 20px;
+    text-decoration: none;
+    color: #aaa;
+    display: inline-block;
+    
+}
+
 .banner img{
     width: 100%;
     overflow: hidden; 
